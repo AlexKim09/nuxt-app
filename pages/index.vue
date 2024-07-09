@@ -40,7 +40,7 @@
       </section>
       <section>
         <div class=" p-8">
-          <AchievementBlock />
+          <AchievementsBlock />
         </div>
       </section>
       <section class=" py-5 bg-cover">
@@ -216,7 +216,7 @@
 </template>
 
 <script setup>
-import AchievementBlock from '~/components/Achievements.vue'
+import AchievementsBlock from '~/components/AchievementsBlock.vue'
 
 </script>
 
